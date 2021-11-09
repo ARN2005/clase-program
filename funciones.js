@@ -32,3 +32,17 @@ function eliminar(){
     var lista=document.getElementById("lista");
     lista.removeChild(lista.lastElementChild);
 }
+window.sr=ScrollReveal();
+sr.reveal(".hola", {
+    duration: 6000,
+    origin:"right",
+    distance: "100px"
+
+});
+ window.sr=ScrollReveal();
+sr.reveal("#image", {
+    duration: 6000,
+    origin:"right",
+    distance: "100px"
+
+});
