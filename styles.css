@@ -1,0 +1,32 @@
+/* Para modificar el tamaño es estiqueta height y width */
+/*para modificar id se coloca # antes del nombre del id*/
+img{
+    height: 150px;
+    width: 75px;
+}
+body{
+    background-color: darkslategray;
+}
+#btn1{
+    background-color: black;
+    color: darkorange;
+}
+#btn2{
+    background-color: black;
+    color: darkorange;
+}
+#btn3{
+    background-color: black;
+    color: darkorange;
+}
+#btn4{
+    background-color: black;
+    color: darkorange;
+}
+#vid{
+    width: 450px;
+}
+#btn5{
+    background-color: black;
+    color: darkorange;
+}
